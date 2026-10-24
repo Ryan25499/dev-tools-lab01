@@ -1,0 +1,3 @@
+Understand Git core workflow
+Master branching and merging
+Build good commit habits
