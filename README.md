@@ -34,3 +34,4 @@ I LOVE MY MOM
 
 [GITHUB](https://github.com/)
 -e "\n## Python and Git Practice" 
+-e "\n## Career Goal: Data Science" 
